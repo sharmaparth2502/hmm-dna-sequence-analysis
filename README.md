@@ -61,7 +61,7 @@ It then adds their joint probabilities to calculate the total likelihood of the 
 4. Run:
 
 ```bash
-python hmm_dna_analysis.py
+python programcode.py
 ```
 
 ## Limitations
